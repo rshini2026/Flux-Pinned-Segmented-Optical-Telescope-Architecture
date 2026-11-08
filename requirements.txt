@@ -1,0 +1,4 @@
+matplotlib
+mujoco
+numpy
+scipy

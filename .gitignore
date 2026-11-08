@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Final_Thesis_Results/
+Alternate_Matrix_Settling_Comparison_Output/
+Support_Boundary_Comparison_Output/
+Support_Settling_50K_d7p5mm_N10_Output/
+reference_timestep_study.json
+reference_timestep_study.csv
+*.npz
+*.zip

@@ -76,7 +76,7 @@ python reference_timestep_study.py
 The timestep script defaults to a four-second interval containing the saved
 reference-case peaks. Use `--duration 16` for the full comparison window.
 
-## Scope and provenance
+## Scope
 
 The geometry, impulse, assumed damping, and source-derived stiffness inputs
 are documented in the thesis. The 40 K, 1 mm case extrapolates the separation

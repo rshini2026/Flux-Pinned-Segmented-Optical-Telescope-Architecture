@@ -33,8 +33,7 @@ distributed translational forces generate assembly-level rotational resistance.
 | `thesis_config.py` | Common case and output paths |
 
 All Python scripts are deliberately kept in one directory because they import
-each other by module filename. This avoids changing the calculations while
-organizing the code for release.
+each other by module filename.
 
 ## Installation
 
